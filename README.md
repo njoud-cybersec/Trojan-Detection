@@ -3,6 +3,10 @@
 ## Description
 Machine Learning project to detect Trojan software using SVM and Logistic Regression.
 
+## Dataset
+The dataset used in this project was downloaded from [Kaggle](https://www.kaggle.com/datasets/subhajournal/trojan-detection/data)  
+Instructions: Download the CSV file from Kaggle and place it in the project folder before running the code.
+
 ## Libraries
 - pandas, numpy
 - matplotlib, seaborn
